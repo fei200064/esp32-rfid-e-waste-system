@@ -16,7 +16,7 @@ This project implements an RFID-based waste classification system using ESP32 an
 - Servo Motor Control
 
 ## 📷 Demo
-![System Setup](E-waste bin.jpg)
+![System Setup](e_waste_bin.jpg)
 
 ## 🚀 How It Works
 When an RFID card is scanned, the system reads the UID and compares it with predefined values. Based on the UID, the servo rotates to direct waste into different categories.
